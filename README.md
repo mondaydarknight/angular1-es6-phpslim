@@ -10,7 +10,7 @@ Make sure you have php, mysql and composer and npm installed on your machine.
 - Clone the project from repository [github.com/mongcheng/angular1-es6-phpslim](https://github.com/mongcheng/angular1-es6-phpslim)
 - In your terminal, cd into the cloned folder and run `npm install` and run `composer install`.
 - Run`webpack --watch`. This allows you view file changes you make.
-- Open a second tab on the terminal and run `npm run dev`.
+- Open a second tab on the terminal and run `php -S 127.0.0.1:8000 -t public` to test website.
 
 ### Dependencies 
 The app is built using **[Slim](https://www.slimframework.com/)**. However, there ara extra packages used by the app must be installed.
