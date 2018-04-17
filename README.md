@@ -1,7 +1,5 @@
 # Angular1-Es6-PhpSlim
 
-## By [Alex Weissman](https://github.com/mongcheng)
-
 ### Webpack-Bootstrap-FontAwesome Starter Configuration
 This is simple config for Bootstrap4 and Fontawesom npm packages, also combine Angular1 with using ECMAScript6 with PHP Slim. 
 
